@@ -179,6 +179,10 @@ footer {
     color: #E0E1DD;
 }
 
+.devby {
+    font-family: 'Comforter Brush', cursive;
+}
+
 .nome {
     color: var(--body-color);
 }
