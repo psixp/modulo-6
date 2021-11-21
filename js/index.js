@@ -1,10 +1,6 @@
-/*const $html = document.querySelector('html')
-				const $checkbox = document.querySelector('#switch')
+/* Dark-mode */
 
-				$checkbox.addEventListener('change', function(){
-					$html.classList.toggle('dark-mode')})
-*/
-
+/*
 const toggle = document.getElementById('toggle');
 const body = document.querySelector('body')
 const a = document.querySelector('a')
@@ -21,3 +17,4 @@ toggle.onclick = function () {
 	}
 	
 }
+*/
